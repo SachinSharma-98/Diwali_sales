@@ -1,5 +1,4 @@
-Data Cleaning: Various data cleaning processes were implemented, such as:
-
+Data Cleaning: Various data cleaning processes were implemented, such as  :
 Removing unnecessary columns.
 Checking for and handling null values.
 Creating new DataFrames for structured analysis.
